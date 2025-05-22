@@ -12,8 +12,8 @@ Follow the steps below to run this project locally:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/TamimHq/portfolio-projects-crud.git
-   cd portfolio-projects-crud
+   git clone https://github.com/TamimHq/Portfolio-project.git
+   cd Portfolio-project
 2. **Install PHP Dependency**
    composer install
 3. **Create Environment File**
